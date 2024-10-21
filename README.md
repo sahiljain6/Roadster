@@ -1,16 +1,21 @@
-# roadster
+# Roadster: E-Commerce Application
+## Project Description
+Welcome to **Roadster**, an E-Commerce Application built with Flutter! This project is designed to deliver an engaging and efficient online shopping experience for users. The app allows customers to browse products, manage their cart, and make purchases seamlessly on both iOS and Android devices, all while ensuring secure payment processing.
 
-A new Flutter project.
+### Key Features
+User Authentication: Secure sign-up and login functionality supported by Firebase.
+Product Catalog: Intuitive browsing with categories and filtering options.
+Search Functionality: Users can search for products easily.
+Shopping Cart: Users can easily add, update, or remove items from their cart.
+Checkout Process: A smooth checkout experience with multiple payment methods.
+Order History: Users can retrieve and view their past orders.
+API Integration: Connects to external APIs for enhanced product information and services.
+Responsive Design: A polished UI that adapts beautifully across devices.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+Frontend : Flutter
+Backend: Firebase
+State Management: Riverpod
+Database: Firestore
+Payment Integration: Razorpay
+API Integration: Various external APIs for product data and services
