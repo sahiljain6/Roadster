@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "797000051802",
+    "firebase_url": "https://shores-584cf-default-rtdb.firebaseio.com",
+    "project_id": "shores-584cf",
+    "storage_bucket": "shores-584cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797000051802:android:9166601ce54c4368593c63",
+        "android_client_info": {
+          "package_name": "com.example.roadster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFEeTnRnwB55zxLZc0i2-Yfgy4GOSXBLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797000051802:android:43edca429378f719593c63",
+        "android_client_info": {
+          "package_name": "com.example.shopzilla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFEeTnRnwB55zxLZc0i2-Yfgy4GOSXBLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
